@@ -1,12 +1,10 @@
 # Recomendaciones de Libros
 ## SF
- Iain M. Banks: Este tío escribe novela mainstream con el nombre de Iain Banks (sin la M), pero la SF como 
-Iain M. Banks, así que no os confundáis. Toda su serie de La cultura es Space Opera “inteligente”, muy, muy 
-buena. Son novelas independientes contra el mismo trasfondo, así que se puede empezar por cualquiera de 
-ellas (El Jugador, Pensad en Flebas, Excesión …)
- Ted Chiang: Solo he leído una cosa suya, un libro de relatos que se llama La historia de tu vida, pero es la 
+- Iain M. Banks: Este tío escribe novela mainstream con el nombre de Iain Banks (sin la M), pero la SF como Iain M. Banks, así que no os confundáis. Toda su serie de La cultura es Space Opera “inteligente”, muy, muy 
+buena. Son novelas independientes contra el mismo trasfondo, así que se puede empezar por cualquiera de ellas (El Jugador, Pensad en Flebas, Excesión …)
+- Ted Chiang: Solo he leído una cosa suya, un libro de relatos que se llama La historia de tu vida, pero es la 
 hostia.
- Orson Scott Card: Los tres primeros de la saga de Ender (especialmente el segundo La voz de los muertos), 
+- Orson Scott Card: Los tres primeros de la saga de Ender (especialmente el segundo La voz de los muertos), 
 pero también la saga de Alvin Maker (6 o 7 volumenes) o Maestro Cantor
  David Brin: Tiene un montón de libros muy Buenos, pero lo más famoso es la serie de La elevación de los 
 pupilos (seis libros). El primero (Navegante solar) es el más flojo, pero luego se crece, y el segundo y el 
@@ -45,3 +43,5 @@ Hielo y Fuego no sé a que esperas.
  Jasper Fforde: Toda la serie de Thursday Next. Si lees el primero (El caso Jane Eyre) y te parece raro, no 
 continues, porque en los siguientes volúmenes (Perdida en un buen libro, El pozo de las tramas perdidas, 
 Algo huele a podrido) todavía son más extraños
+
+Actualizado el 20/05/2026
